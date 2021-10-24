@@ -154,7 +154,7 @@ const Menu = [
     image: " https://cdni.rbth.com/rbthmedia/images/2018.02/original/5a8ecdf885600a4eb153f813.jpg",
     name: "Smolensk porridge with cranberry juice",
     category: "russian",
-    price: "180₹",
+    price: "180",
     description1: "Ingredients : Cranberries - 1 cup , Rice - 1/2 cup , Sugar - 1⁄2 cup", 
     description2:"Instructions :  Make 6 cups of juice from the 1 cup of cranberries; boil it, pour in the rice and sugar, cool and serve with sugar.",
   },
