@@ -12,4 +12,5 @@ function App() {
 /*const MyName=()=>{
   return <h1>ibrahim</h1>;
 }*/
+
 export default App;
